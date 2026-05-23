@@ -1,0 +1,6 @@
+{
+  "name": "Samsung Note 5+ Launcher Simulator",
+  "description": "An interactive, customizable Samsung Note launcher simulation. Supports multiple device generation frames (SM-N920 Note 5+ and SM-N975 Note 10+ with Aura Glow paint), grid matrix layouts (5x6 to 12x13), icon scaling, free-float draggable app sizes, customizable search engines (Google, DuckDuckGo, Termux, Torrent tracker), and virtual S-Pen Air Commands menu overlay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
